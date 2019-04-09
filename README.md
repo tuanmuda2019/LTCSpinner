@@ -7,6 +7,8 @@ Bot Free LTC Spinner
 	pkg install php
 	git clone https://github.com/tuanmuda2019/LTCSpinner.git
 	cd LTCSpinner
+	pkg install nano
+	nano modul.php
 	php ltc.php
 
 
