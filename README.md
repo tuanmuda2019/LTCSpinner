@@ -20,6 +20,8 @@ Masukkan Password : tuanmuda2019
 	$deviceid = "?";
 	?>
 	
+	Setelah kalian edit kita sava dengan CTRL + X lalu enter
+	
 	Email Isi Dengan Alamat Coinbase
 	Device Id Bisa Liat di APP : https://play.google.com/store/apps/details?id=com.evozi.deviceid
 	
